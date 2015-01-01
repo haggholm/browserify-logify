@@ -1,9 +1,9 @@
 {
   "name": "logify",
   "version": "1.0.0",
-  "main": "logify.js"
+  "main": "logify.js",
   "author": {
-    "name": "Petter Häggholm",
+    "name": "Petter HÃ¤ggholm",
     "email": "petter@petterhaggholm.net"
   },
   "license": "MIT",
