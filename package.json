@@ -1,0 +1,20 @@
+{
+  "name": "logify",
+  "version": "1.0.0",
+  "main": "logify.js"
+  "author": {
+    "name": "Petter Häggholm",
+    "email": "petter@petterhaggholm.net"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "through": "^2.3.4"
+  },
+  "peerDependencies": {
+    "browserify": ">= 2.3.0 < 8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/haggholm/browserify-logify.git"
+  }
+}
