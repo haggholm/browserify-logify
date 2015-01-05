@@ -1,5 +1,5 @@
 {
-  "name": "logify",
+  "name": "browserify-logify",
   "version": "1.0.0",
   "main": "logify.js",
   "author": {
